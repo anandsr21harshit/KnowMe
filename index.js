@@ -50,7 +50,7 @@ function play(){
       question:"Do I love cricket or football?",
       answer: "Cricket"
     }
-{
+    {
       question:"Do I love mountains or beaches?",
       answer: "Mountains"
     }
