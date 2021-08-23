@@ -82,7 +82,7 @@ function gameOver(){
   console.log();
   console.log("-----------------------");
   console.log(chalk.cyan("Game is over!!!!"));
-  console.log(`Your score is ${score} out of 3`);
+  console.log(`Your score is ${score} out of 5`);
   console.log();
   console.log("--------LeaderBoard--------");
   scoreBoard.push({Name: name,Score:score});
