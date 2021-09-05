@@ -53,6 +53,10 @@ function play(){
     {
       question:"Do I love mountains or beaches?",
       answer: "Mountains"
+    },
+    {
+      question:"From which college I graduated?",
+      answer: "Nit Durgapur"
     }
   ];
 
